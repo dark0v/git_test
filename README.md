@@ -1,1 +1,1 @@
-This is a test git project.
+This is testing branch, on a test git project. 
